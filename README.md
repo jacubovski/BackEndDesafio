@@ -66,6 +66,7 @@ Para autalizar uma determinada Cidade ou um Estado
 
 # Informações Importantes
 
-  Para obtenção o Token, é necessário fazer o login no endpoint descrito a cima.
+    Para obtenção o Token, é necessário fazer o login no endpoint descrito a cima.
 
-Infelizmente por conta de tempo, não foi possível criar os testes .
+    Entendo que os testes sejam extremamente necessários, por falta de conhecimento, não consegui elaborá-los a tempo para
+    este desafio, e de imediato ja comecei a estudar sobre o tema a fim de obter mais conhecimento.
